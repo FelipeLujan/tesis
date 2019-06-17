@@ -49,7 +49,21 @@
 \newblock {En: }\emph{Canadian geotechnical journal}
 \newblock 14 (1977), Nr. 3, p. 429--439
 
-\bibitem[9]{singapore}
+\bibitem[9]{huangB}
+\textsc{Huang}, Yang~H. [u.~a.]:
+\newblock \emph{Slope stability analysis by the limit equilibrium method:
+  fundamentals and methods.}
+\newblock American Society of Civil Engineers (ASCE), 2013. --
+\newblock  238 p.
+
+\bibitem[10]{huangS}
+\textsc{Huang}, Yang~H. [u.~a.]:
+\newblock \emph{Slope stability analysis by the limit equilibrium method:
+  fundamentals and methods.}
+\newblock American Society of Civil Engineers (ASCE), 2013. --
+\newblock  242 p.
+
+\bibitem[11]{singapore}
 \textsc{Rahardjo}, Harianto ; \textsc{Aung}, KK ; \textsc{Leong}, Eng~C.  ;
   \textsc{Rezaur}, RB:
 \newblock Characteristics of residual soils in Singapore as formed by
@@ -57,14 +71,14 @@
 \newblock {En: }\emph{Engineering Geology}
 \newblock 73 (2004), Nr. 1-2, p. 157--169
 
-\bibitem[10]{reid2015scoops3d}
+\bibitem[12]{reid2015scoops3d}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock \emph{Software to Analyze Three Dimensional Slope Stability
   Throughout a Digital Landscape}.
 \newblock 2015
 
-\bibitem[11]{traditional}
+\bibitem[13]{traditional}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -72,7 +86,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, p.~8
 
-\bibitem[12]{columngraph}
+\bibitem[14]{columngraph}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -80,7 +94,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, p.~13
 
-\bibitem[13]{formulas}
+\bibitem[15]{formulas}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -88,7 +102,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, Kapitel ~2, p. 7--21
 
-\bibitem[14]{sgc2013}
+\bibitem[16]{sgc2013}
 \textsc{SGC}:
 \newblock Memoria Explicativa de la Zonificaci\'on de la Susceptibilidad y la
   Amenaza Relativa por Movimientos en Masa Escala 1:100.000 Plancha 165 -

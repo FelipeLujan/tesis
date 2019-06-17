@@ -4,12 +4,19 @@
 
 \section{Conclusiones}
 
+Si bien los mapas de distribuci\'on de \textit{F} obtenidos en las pruebas preliminares no guardan mayor correlaci\'on con el generado usando los parametros resultantes de pruebas de laboratorio, la etapa de ensayos preliminares fue bastante \'util para conocer el flujo de trabajo necesario una vez se obtuvieron los par\'ametros de resistencia de las muestras recolectadas en campo.
 
-Aunque se han encontrado zonas espec\'ificas con factor de seguridad bajo, estas abarcan pocas extensiones (poca superficie) y poco distribuidas, no se han detectado masas de suelo de gran embergadura con \textit{F} inferior a 3.0. Sim embargo, la distribuci\'on de zonas con bajo factor de seguridad es amplia, algunas incluso se acercan a lugares habitados en la vereda Monte Loro.
+Si bien no fue posible obtener los par\'ametros de resistencia de la estaci\'on 2. Las muestras recolectadas en la estaci\'on 1 presentaron  una  fuente confiable de informaci\'on al presentar un valor de $R^{2}$ superior a 99\% al momento de graficar la envolvente con los datos de corte directo.
 
-En la gran mayoria de los casos, no es necesario el desarrollo interno de una herramienta computacional para realizar an\'alisis de equilibrio l\'imite en 3 dimensiones. Simplenente con los valores de de cohesion, \'angulo de fricci\'on y peso especif\'ico tradicionalmente usado en Bishop simplificado para dos dimensiones puede usarse como insumo para extender el an\'alisis  de equilibrio l\'imite a 3D dimensiones mediante el uso de herramientas computacionales ya disponibles como Scoops3D.
+Aunque se han encontrado zonas  con factor de seguridad  considerablemente bajo, estas no poseen alta cobertura, ni tampoco se han detectado masas de suelo de gran embergadura con \textit{F} inferior a 3.0. Sin embargo, la distribuci\'on de zonas con \textit{F} cercano a 3.0  es amplia \( incluso ligeramente inferior a 3.0 \). Llegandose a presentar casos en los que dichas zonas coinciden espacialmente con lugares habitados en la vereda Monte Loro.
 
-Se puede mejorar considerablemente la calidad del producto generado por Scoops3D si se implementa de informaci\'on SIG de alto nivel de detalle, ya que ello reduce la aparici\'on de multiples subsets por esfera de b\'usqueda. Esto a su vez, implica la necesidad de equipos de computo con altas capacidades de procesamiento.
+La posibilidad de extender los m\'etodos tradicionales de equilibrio l\'imite a 2 dimensiones y zonas extensas permite detectar sitios de baja estabilidad y sus posibles afectaciones a comunidades que all\'i habiten, lo cual tomar\'ia mas tiempo (o pasar desapercibido) si se realiza un estudio de cartograf\'ia b\'asica y equilibrio l\'imite sobre cortes longitudinales.
+
+El mapa de distribuci\'on de factores de seguridad obtenido guarda alta correlaci\'on con lo visto en campo y corroborado por la base de datos SIMMA, movimientos en masa (o cicatrices de los mismos) dispersos, de baja cobertura.
+
+En la gran mayor\'ia de los casos, no es necesario el desarrollo interno de una herramienta computacional para realizar an\'alisis de equilibrio l\'imite en 3 dimensiones. Simplenente con los valores de de cohesion, \'angulo de fricci\'on y peso especif\'ico tradicionalmente usado en Bishop simplificado para dos dimensiones puede usarse como insumo para extender el an\'alisis  de equilibrio l\'imite a 3D dimensiones mediante el uso de herramientas computacionales ya disponibles como Scoops3D.
+
+Se puede mejorar considerablemente la calidad del producto generado por Scoops3D si se implementa de informaci\'on SIG de alto nivel de detalle, toda vez que ello reduce la aparici\'on de multiples subsets por esfera de b\'usqueda. Esto a su vez, implica la necesidad de equipos de computo con altas capacidades de procesamiento.
 
 
 La posibilidad de extender los m\'etodos tradicionales de equilibrio l\'imite a 2 dimensiones y zonas extensas permite detectar sitios de baja estabilidad y sus posibles afectaciones a comunidades que all\'i habiten, lo cual tomar\'ia mas tiempo (o pasar desapercibido) si se realiza un estudio de cartograf\'ia b\'asica y equilibrio l\'imite sobre cortes longitudinales.
@@ -21,7 +28,7 @@ Previo al uso de la herramienta Scoops3D se recomienda  realizar un proceso de c
 
 La extension vertical de la caja de b\'usqueda se recomienda que sea 3 veces la elevacion m\'axima presente en la zona de estudio. Mientras que la extension horizontal no se requiere que se extienda mucho mas all\'a de las laterales del DEM.
   
-Limitar la extension del archivo DEM suministrado a  Scoops3D \'unicamente en la zona de trabajo requerida, esto permite reducir significativamente tiempo de ejecuci\'on de Scoops3D. Scoops3D no permite realizar modificaci\'on alguna a los archivos de entrada, por lo que este proceso debe realizarse previamente.
+Limitar la extension del archivo DEM suministrado a  Scoops3D \'unicamente en la zona de trabajo requerida, esto permite reducir significativamente tiempo de ejecuci\'on de Scoops3D. Scoops3D no permite realizar modificaci\'on alguna a los archivos de entrada, por lo que este proceso debe realizarse previamente. Para lo cual se recomienda emplear herramientas SIG como QGIS o ArcGIS.
 
 
 Seleccionar siempre la opci\'on de Bishop dentro del menu de selecci\'on de an\'alisis de estabilidad, ya que esta opcio\'n calcula el factor de seguridad tanto por Bishop simplificado como por el m\'etodo de Fellenius.

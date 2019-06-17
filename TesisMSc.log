@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  17 JUN 2019 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  17 JUN 2019 16:18
 entering extended mode
 **./TesisMSc.tex
 (TesisMSc.tex
@@ -1049,8 +1049,8 @@ chapter 2.
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
  [6])
 [7]
 \openout2 = `cap3/kap3.aux'.
@@ -1752,11 +1752,11 @@ Underfull \vbox (badness 2173) has occurred while \output is active []
 
  [55
 
-])
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
+]
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
 
-[56] (TesisMSc.bbl
+[56]) (TesisMSc.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [57] [58
@@ -1767,8 +1767,8 @@ LaTeX Info: Redefining \% on input line 73.
  [59] (TesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-(Kap1/Kap1.aux) (Kap2/Kap2.aux) (cap3/kap3.aux) (Kap4/Kap4.aux) (Kap5/Kap5.aux)
-)
+ (Kap1/Kap1.aux) (Kap2/Kap2.aux) (cap3/kap3.aux) (Kap4/Kap4.aux)
+(Kap5/Kap5.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1777,10 +1777,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11563 strings out of 492970
- 187228 string characters out of 3127038
- 369663 words of memory out of 3000000
- 15049 multiletter control sequences out of 15000+200000
+ 11565 strings out of 492970
+ 187246 string characters out of 3127038
+ 369673 words of memory out of 3000000
+ 15051 multiletter control sequences out of 15000+200000
  78089 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,16n,66p,9116b,1219s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1809,7 +1809,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/pipe/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Users/pipe/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Users/pipe/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on TesisMSc.pdf (67 pages, 6215802 bytes).
+Output written on TesisMSc.pdf (67 pages, 6217341 bytes).
 PDF statistics:
  861 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
