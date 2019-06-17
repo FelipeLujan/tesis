@@ -153,27 +153,3 @@ El sector con menor valor de F se encuentra ligeramente al norte de la Formaci\'
 A\'un considerando un valor de F mayor a 3.0 , en la zona de trabajo se encontraron un total de 1280 p\'ixeles con \textit{F} inferior a este valor. Teniendo en cuenta que el \'area de cada p\'ixel es de  $1460.65\,\text{m}^{2}$ el \'area  equivalente bajo tal \textit{cutoff} es de $1'869,636 \text{m}^{2}$
 
 
-\section{Conclusiones}
-
-
-Aunque se han encontrado zonas espec\'ificas con factor de seguridad bajo, estas abarcan pocas extensiones (poca superficie) y poco distribuidas, no se han detectado masas de suelo de gran embergadura con \textit{F} inferior a 3.0.
-
-La informaci\'on de cohesion, \'angulo de fricci\'on y peso especif\'ico tradicionalmente usado en Bishop simplificado para dos dimensiones puede usarse como insumo para extender el an\'alisis  de equilibrio l\'imite a 3D dimensiones mediante el uso de herramientas computacionales ya disponibles.
-
-La calidad del producto generado por Scoops3D se ve altamente beneficiada por el uso de informaci\'on SIG de alto nivel de detalle, toda vez que reduce la aparici\'on de multiples subsets por esfera de b\'usqueda. 
-
-
-La posibilidad de extender los m\'etodos tradicionales de equilibrio l\'imite a 2 dimensiones y zonas extensas permite detectar sitios de baja estabilidad no consideradas mediante un estudio de cartograf\'ia b\'asica.
-
-
-\section{Recomendaciones}
-
-Previo al uso de la herramienta Scoops3D se recomienda  realizar un proceso de control de calidad sobre el DEM a ser utilizado. Con el proposito de extraer los metadatos correspondientes a extension horizontal y vertical. Estos valores son necesarios para calcular las dimensiones de la caja de b\'usqueda que se emplear\'a en la ejecuci\'on de Scoops3D.
-
-Realizar un recorte (crop) al dem para evaluar en Scoops3D \'unicamente en la zona requerida, esto para reducir el tiempo de ejecuci\'on de Scoops3D.
-
-Seleccionar siempre la opci\'on de Bishop dentro del menu de selecci\'on de an\'alisis de estabilidad, ya que esta opcio\'n calcula el factor de seguridad tanto por Bishop simplificado como por el m\'etodo de Fellenius.
-
-Siempre realizar corridas de prueba en Scoops3D con par\'ametros de resistencia estimados, para evaluar la \'optima configuraci\'on de Scoops3D, espec\'ificamente para verificar que la caja de b\'usqueda no sea una limitante al momento de evaluar los m\'etodos bishop y fellenius al DEM usado. Los archivos \_out.txt y \_boundcheck\_out.asc son de gran utilidad para determinar una caja de b\'usqueda que no represente una restricci\'on a la ejecuci\'on de Scoops3D.
-
-Al utitlizar modelos de elevaci\'on digital de alta resoluci\'on ($5m^{2}$ o inferior tama\~no de pixel) es aconsejable usar servicios de computaci\'on en la nube como Google Cloud Platform (GCP) o Amazon Web Services (AWS) y la l\'inea de comando (CLI) en Python. Esto para acelerar los tiempos de ejecuci\'on de Scoops3D
