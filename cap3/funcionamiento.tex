@@ -3,14 +3,17 @@
 
 
 Como se ha mencionado anteriormente, Scoops3D se basa en la aplicaci\'on de los an\'alisis de equilibrio l\'imite por medio de los m\'etodos de de dobelas, que aplicado en un entorno tridimensional puede verse como una an\'alisis por medio de columnas.
-Cada columna posee entonces lados de distancia equivalente, dados por el tama\~no de pixel que posee el DEM especificado, mientras que la altura de la columna estar\'a dada por la distancia entre la superficie del DEM y la superficie de falla.
+Cada columna posee entonces lados de distancia equivalente, dados por el tama\~no de pixel que posee el DEM especificado, mientras que la altura de la columna estar\'a dada por la distancia entre la superficie del DEM y la superficie de falla.\cite{chen1981three}
 
 La superficie de falla que intersecta las dobelas en profundidad es una esfera con centro en cualquier lugar sobre la superficie del DEM y un radio \textit{r}. Scoops3D incluye en el an\'alisis de cada superficie de falla todas y cada una de las columnas cuyo p\'ixel correspondiente posea 2 o mas v\'ertices al interior de la superficie de falla.\\
 
-La superficie de falla en la base de cada columna puede discretizarse como un plano con inclinacion $ \xi$ el cual se encuentra a una distancia \textit{R} del centro de la esfera de falla.
+La superficie de falla en la base de cada columna puede discretizarse como un plano con inclinacion $ \xi$ el cual se encuentra a una distancia \textit{R} del centro de la esfera de falla. \cite{chen1981three}
 
 
-\subsection{inclinaci\'on del plano basal}
+\subsection{Inclinaci\'on del plano basal}
+
+A continuaci\'on se detalla el trasfondo matem\'atico sobre el cual se fundamenta la transformaci\'on de los m\'etodos tradicionales bidimensionales de equilibrio l\'imite en an\'alisis  tridimensionales de estabilidad de laderas. 
+Formulaci\'on basada en el manual de usuario de Scoops3D \cite{formulas}
 
 
 Partiendo de la ecuaci\'on para la generaci\'on de una superficie esf\'erica:
@@ -18,13 +21,13 @@ Partiendo de la ecuaci\'on para la generaci\'on de una superficie esf\'erica:
 $$ \textit{R}^{2} = \textit{x}^{2} + \textit{y}^{2} + \textit{z}^{2}$$
 
 por lo cual el buzamiento aparente $\xi$ del plano estaria dado por
-$$ \xi = \textit{cos}^{-1}  (\dfrac{1}{\sqrt{1+(\partial z/ \partial x)^{2} + (\partial z/ \partial y)^{2} }})   $$ 
+$$ \xi = \textit{cos}^{-1}  (\dfrac{1}{\sqrt{1+(\partial z/ \partial x)^{2} + (\partial z/ \partial y)^{2} }})   $$
 
 mientras que el buzamiento real $ \alpha$ estar\'ia representado por \\
 $$ \alpha = tan^{-1} ((\partial z/ \partial x)\textit{cos}\varphi +(\partial z/ \partial x)\textit{sin}\varphi )  $$
 donde $\varphi$ es la direcci\'on de buzamiento de la ladera en el lugar donde se encuentra ubicada la columna
 
-Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular su vol\'umen, y posteriormente su peso.
+Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular su vol\'umen, y posteriormente su peso.\cite{formulas}
 
 \subsection{Vol\'umen de la columna}
 
@@ -41,7 +44,7 @@ Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular
 Dado que scoops3D tiene en cuenta todas aquellas columnas que contengan 2 vertices al interior de la esfera de busqueda, es posible que solo una parte de la columna este contenida dentro de dicha esfera, caso en el cual el vol\'umen de dicha parte incluida debe ser calculado.
 En este caso y partiendo de la figura 3.2, se toma un plano intermedio $ S_{1} $ entre los planos $ S_{0} $ y $ S_{2} $
 
-En los casos en los que una columna es contenida es su totalidad, es decir, que sus planos  paralelos $S_{0}$ y $S_{2}$ tienen igual area. el vol\'umen (\textit{V}) estar\'a dado por 
+En los casos en los que una columna es contenida es su totalidad, es decir, que sus planos paralelos $S_{0}$ y $S_{2}$ tienen igual area. el vol\'umen (\textit{V}) estar\'a dado por
 
 $$\textit{V}= (1/6)\vartriangle \textit{x}(S_{0} + 4S_{1} + S_{2})$$
 
@@ -75,43 +78,43 @@ $$\textit{T} = \frac{1}{\textit{F}} \Sigma\textit{s}_{\textit{i,j}} \textit{A}_{
 
 
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
-\hline 
-\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} &\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j}& \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} &\textit{i,j} & \textit{i,j} \\ 
-\hline 
-\textit{i,j} &\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j}& \textit{i,j} \\ 
-\hline 
-\textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j}\\ 
-\hline 
-1,2 & 2,2 & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j}\\ 
-\hline 
-1,1 & 2,1 & \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j}\\ 
-\hline 
-\end{tabular} 
+\hline
+\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} &\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j}& \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} &\textit{i,j} & \textit{i,j} \\
+\hline
+\textit{i,j} &\textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j}& \textit{i,j} \\
+\hline
+\textit{i,j} & \textit{i,j}& \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j}\\
+\hline
+1,2 & 2,2 & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j}\\
+\hline
+1,1 & 2,1 & \textit{i,j}& \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j} & \textit{i,j}& \textit{i,j} & \textit{i,j}\\
+\hline
+\end{tabular}
 \end{center}
 La columna $\textit{i}=1$ y $\textit{j}=1$ ser\'an aquellas ubicada en la posici\'on del p\'ixel en la esquina inferior izquierda del DEM.
 
 El equilibrio de momentos se calcula a lo largo de un eje rotacional basado en el centro de la esfera de falla, dicho eje es horizontal y normal a la direcci\'on potencial de falla.
 El momento actuante est\'a direccionado principalmente por la fuerza de la gravedad (\textit{W})
-$$a_{i,j}=R_{i,j}\sin \alpha_{i,j}$$ 
+$$a_{i,j}=R_{i,j}\sin \alpha_{i,j}$$
 
 Donde $\textit{R}_{i,j}$ es la distancia desde el centro de la esfera hasta el centro del \'area $\textit{A}$ en la base de la columna, $\alpha_{i,j}$ es el buzamiento aparente del plano de \'area (\textit{A}) visto desde la posici\'on del centro de la esfera. En $\textit{R}_{i,j}$ se puede apreciar una de las principales diferencias entre el an\'alisis de equilibrio limite en 2D y 3D, ya que en 3D dicha distancia siempre es variable, por lo cual el momento actuante ($\textit{M}_{act}$) de cada columna debe calcularse independientemente, para lo cual se usa la expresi\'on:
 
 $$\textit{M}_{act}=\Sigma \textit{R}_{i,j}\textit{W}_{i,j}\sin\alpha_{i,j}  $$
 
-El momento resistente($\textit{M}_{r}$)  est\'a representado por la sumatoria de los productos de esfuerzos cortantes en la parte inferior de cada columna.
+El momento resistente($\textit{M}_{r}$) est\'a representado por la sumatoria de los productos de esfuerzos cortantes en la parte inferior de cada columna.
 
 $$\textit{M}_{Total}= \Sigma \textit{R}_{i,j}\frac{\textit{s}_{i,j}\textit{A}_{i,j}}{\textit{F}}  $$
-por lo que al reemplazar $\textit{s}_{i,j}$ 
+por lo que al reemplazar $\textit{s}_{i,j}$
 
 $$ {M}_{Total} = \Sigma \textit{R}_{i,j} \frac{\textit{C}_{i,j}\textit{A}_{i,j}+(\textit{N}_{i,j}-\textit{U}_{i,j}\textit{A}_{i,j})\tan\phi_{i,j}}{\textit{F}} $$
 
@@ -124,5 +127,4 @@ Por lo que el factor de seguridad \textit{F} Est\'a dado por:
 
 $$\textit{F}_{i,j}=  \frac{\Sigma \textit{R}_{i,j}(\textit{c}_{i,j}\textit{A}_{i,j}+(\textit{N}_{i,j}-\textit{u}_{i,j}\textit{A}_{i,j})\tan \phi _{i,j}}{\Sigma \textit{W} _{i,j}(\textit{R} _{i,j}\sin\alpha _{i,j})}  $$
 
-Formulaci\'on basada en el manual de usuario de Scoops3D  \cite{formulas}
 
