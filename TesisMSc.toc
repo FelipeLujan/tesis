@@ -15,23 +15,26 @@
 \contentsline {chapter}{\numberline {5}Zona de estudio.}{26}%
 \contentsline {section}{\numberline {5.1}Condiciones atmosf\'{e}ricas.}{29}%
 \contentsline {section}{\numberline {5.2}Geolog\'ia}{29}%
-\contentsline {section}{\numberline {5.3}Geomorfolog\'{i}a.}{31}%
-\contentsline {chapter}{\numberline {6}An\'alisis tridimensinal en Scoops3D.}{33}%
-\contentsline {section}{\numberline {6.1}Prueba piloto}{33}%
-\contentsline {subsection}{\numberline {6.1.1}DEM usado en pruebas preliminares}{35}%
-\contentsline {subsection}{\numberline {6.1.2}Pruebas Ejecutadas.}{37}%
-\contentsline {subsection}{\numberline {6.1.3}Par\'ametros de resistencia.}{39}%
-\contentsline {subsection}{\numberline {6.1.4}Pruebas Preliminares.}{41}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de control.}{41}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{44}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{45}%
-\contentsline {subsection}{\numberline {6.1.5}Interpretacion}{47}%
-\contentsline {chapter}{\numberline {7}Informaci\'on de campo.}{48}%
-\contentsline {section}{\numberline {7.1}Recorrido de campo}{48}%
-\contentsline {section}{\numberline {7.2}Ensayos de laboratorio.}{51}%
-\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{54}%
-\contentsline {paragraph}{\nonumberline Scoops3D.}{55}%
-\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{59}%
-\contentsline {section}{\numberline {8.1}Conclusiones}{59}%
-\contentsline {section}{\numberline {8.2}Recomendaciones}{60}%
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{61}%
+\contentsline {section}{\numberline {5.3}Geolog\'ia Estructural}{31}%
+\contentsline {subsection}{\numberline {5.3.1}Fallamiento}{32}%
+\contentsline {subsubsection}{\nonumberline Falla La Mansa}{32}%
+\contentsline {section}{\numberline {5.4}Geomorfolog\'{i}a.}{32}%
+\contentsline {chapter}{\numberline {6}An\'alisis tridimensinal en Scoops3D.}{34}%
+\contentsline {section}{\numberline {6.1}Prueba piloto}{34}%
+\contentsline {subsection}{\numberline {6.1.1}DEM usado en pruebas preliminares}{36}%
+\contentsline {subsection}{\numberline {6.1.2}Pruebas Ejecutadas.}{38}%
+\contentsline {subsection}{\numberline {6.1.3}Par\'ametros de resistencia.}{40}%
+\contentsline {subsection}{\numberline {6.1.4}Pruebas Preliminares.}{42}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de control.}{42}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{45}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{46}%
+\contentsline {subsection}{\numberline {6.1.5}Interpretacion}{48}%
+\contentsline {chapter}{\numberline {7}Informaci\'on de campo.}{49}%
+\contentsline {section}{\numberline {7.1}Recorrido de campo}{49}%
+\contentsline {section}{\numberline {7.2}Ensayos de laboratorio.}{52}%
+\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{55}%
+\contentsline {paragraph}{\nonumberline Scoops3D.}{56}%
+\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{60}%
+\contentsline {section}{\numberline {8.1}Conclusiones}{60}%
+\contentsline {section}{\numberline {8.2}Recomendaciones}{61}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{62}%

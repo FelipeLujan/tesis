@@ -47,13 +47,19 @@
 \newblock
 \newblock  (1986), p.~32
 
-\bibitem[9]{libreta}
+\bibitem[9]{orogeniacontinental}
+\textsc{Colombiano}, Servicio~G.:
+\newblock Geologia y geoquimica de la plancha 165 Carmen de Atrato.
+\newblock
+\newblock  (1986), p. 86--90
+
+\bibitem[10]{libreta}
 \textsc{Colombiano}, Servicio~G.:
 \newblock Plancha 165, Libreta de campo Consuelo Durango.
 \newblock
 \newblock  (2013)
 
-\bibitem[10]{precipitacion}
+\bibitem[11]{precipitacion}
 \textsc{Colombiano}, Servicio~G.:
 \newblock Memoria explicativa de la zonificacion de la suceptibilidad y la
   amenaza relativa por movimientos en masa escala 1:100000 Plancha 165 - Carmen
@@ -61,19 +67,19 @@
 \newblock
 \newblock  (2014), p.~21
 
-\bibitem[11]{fellenius1936}
+\bibitem[12]{fellenius1936}
 \textsc{Fellenius}, Wolmar:
 \newblock Calculation of stability of earth dam.
 \newblock
 \newblock 4 (1936), p. 445--462
 
-\bibitem[12]{fredlund1977comparison}
+\bibitem[13]{fredlund1977comparison}
 \textsc{Fredlund}, DG ; \textsc{Krahn}, J:
 \newblock Comparison of slope stability methods of analysis.
 \newblock {En: }\emph{Canadian geotechnical journal}
 \newblock 14 (1977), Nr. 3, p. 429--439
 
-\bibitem[13]{hirt2010comparison}
+\bibitem[14]{hirt2010comparison}
 \textsc{Hirt}, Christian ; \textsc{Filmer}, MS  ; \textsc{Featherstone}, WE:
 \newblock Comparison and validation of the recent freely available ASTER-GDEM
   ver1, SRTM ver4. 1 and GEODATA DEM-9S ver3 digital elevation models over
@@ -81,38 +87,38 @@
 \newblock {En: }\emph{Australian Journal of Earth Sciences}
 \newblock 57 (2010), Nr. 3, p. 337--347
 
-\bibitem[14]{huang2000new}
+\bibitem[15]{huang2000new}
 \textsc{Huang}, Ching-Chuan ; \textsc{Tsai}, Cheng-Chen:
 \newblock New method for 3D and asymmetrical slope stability analysis.
 \newblock {En: }\emph{Journal of Geotechnical and Geoenvironmental Engineering}
 \newblock 126 (2000), Nr. 10, p. 917--927
 
-\bibitem[15]{huangB}
+\bibitem[16]{huangB}
 \textsc{Huang}, Yang~H. [u.~a.]:
 \newblock \emph{Slope stability analysis by the limit equilibrium method:
   fundamentals and methods.}
 \newblock American Society of Civil Engineers (ASCE), 2013. --
 \newblock  238 p.
 
-\bibitem[16]{huangS}
+\bibitem[17]{huangS}
 \textsc{Huang}, Yang~H. [u.~a.]:
 \newblock \emph{Slope stability analysis by the limit equilibrium method:
   fundamentals and methods.}
 \newblock American Society of Civil Engineers (ASCE), 2013. --
 \newblock  242 p.
 
-\bibitem[17]{hungr1989evaluation}
+\bibitem[18]{hungr1989evaluation}
 \textsc{Hungr}, Oldrich ; \textsc{Salgado}, FM  ; \textsc{Byrne}, PM:
 \newblock Evaluation of a three-dimensional method of slope stability analysis.
 \newblock {En: }\emph{Canadian geotechnical journal}
 \newblock 26 (1989), Nr. 4, p. 679--686
 
-\bibitem[18]{little1969engineering}
+\bibitem[19]{little1969engineering}
 \textsc{Little}, AL:
 \newblock The Engineering Classification Of Residual Torpical Soils.
 \newblock {En: }\emph{Soil Mech \& Fdn Eng Conf Proc/Mexico/}, 1969
 
-\bibitem[19]{whatisadem}
+\bibitem[20]{whatisadem}
 \textsc{Mukherjee}, Sandip ; \textsc{Joshi}, Pawan~K. ; \textsc{Mukherjee},
   Samadrita ; \textsc{Ghosh}, Aniruddha ; \textsc{Garg}, RD  ;
   \textsc{Mukhopadhyay}, Anirban:
@@ -122,7 +128,7 @@
   Geoinformation}
 \newblock 21 (2013), p. 205--217
 
-\bibitem[20]{singapore}
+\bibitem[21]{singapore}
 \textsc{Rahardjo}, Harianto ; \textsc{Aung}, KK ; \textsc{Leong}, Eng~C.  ;
   \textsc{Rezaur}, RB:
 \newblock Characteristics of residual soils in Singapore as formed by
@@ -130,14 +136,14 @@
 \newblock {En: }\emph{Engineering Geology}
 \newblock 73 (2004), Nr. 1-2, p. 157--169
 
-\bibitem[21]{reid2015scoops3d}
+\bibitem[22]{reid2015scoops3d}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock \emph{Software to Analyze Three Dimensional Slope Stability
   Throughout a Digital Landscape}.
 \newblock 2015
 
-\bibitem[22]{traditional}
+\bibitem[23]{traditional}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -145,7 +151,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, p.~8
 
-\bibitem[23]{columnsscoops}
+\bibitem[24]{columnsscoops}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -153,7 +159,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, Kapitel ~2, p.~27
 
-\bibitem[24]{fseg}
+\bibitem[25]{fseg}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -161,7 +167,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, Kapitel ~2, p.~19
 
-\bibitem[25]{rotacional}
+\bibitem[26]{rotacional}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -169,7 +175,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, Kapitel ~2, p.~55
 
-\bibitem[26]{formulas}
+\bibitem[27]{formulas}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -177,7 +183,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, Kapitel ~2, p. 7--21
 
-\bibitem[27]{columngraph}
+\bibitem[28]{columngraph}
 \textsc{Reid}, Mark~E. ; \textsc{Christian}, Sarah~B. ; \textsc{Brien},
   Dianne~L.  ; \textsc{Henderson}, S:
 \newblock Software to Analyze Three Dimensional Slope Stability Throughout a
@@ -185,7 +191,7 @@
 \newblock {En: }\emph{Tech. Rep. US Geological Survey Techniques and Methods}.
 \newblock 2015, p.~13
 
-\bibitem[28]{sgc2013}
+\bibitem[29]{sgc2013}
 \textsc{SGC}:
 \newblock Memoria Explicativa de la Zonificaci\'on de la Susceptibilidad y la
   Amenaza Relativa por Movimientos en Masa Escala 1:100.000 Plancha 165 -
@@ -193,20 +199,20 @@
 \newblock
 \newblock  (2013)
 
-\bibitem[29]{spencer1967method}
+\bibitem[30]{spencer1967method}
 \textsc{Spencer}, E:
 \newblock A method of analysis of the stability of embankments assuming
   parallel inter-slice forces.
 \newblock {En: }\emph{Geotechnique}
 \newblock 17 (1967), Nr. 1, p. 11--26
 
-\bibitem[30]{stark1998performance}
+\bibitem[31]{stark1998performance}
 \textsc{Stark}, Timothy~D. ; \textsc{Eid}, Hisham~T.:
 \newblock Performance of three-dimensional slope stability methods in practice.
 \newblock {En: }\emph{Journal of Geotechnical and Geoenvironmental engineering}
 \newblock 124 (1998), Nr. 11, p. 1049--1060
 
-\bibitem[31]{tachikawa2011aster}
+\bibitem[32]{tachikawa2011aster}
 \textsc{Tachikawa}, Tetushi ; \textsc{Kaku}, Manabu ; \textsc{Iwasaki}, Akira ;
   \textsc{Gesch}, Dean~B. ; \textsc{Oimoen}, Michael~J. ; \textsc{Zhang}, Zheng
   ; \textsc{Danielson}, Jeffrey~J. ; \textsc{Krieger}, Tabatha ;
@@ -217,7 +223,7 @@
 \newblock 2011.
 \newblock  -- Informe de Investigaci\'{o}n
 
-\bibitem[32]{tachikawa1994development}
+\bibitem[33]{tachikawa1994development}
 \textsc{Tachikawa}, Y ; \textsc{Shiiba}, M  ; \textsc{Takasao}, T:
 \newblock DEVELOPMENT OF A BASIN GEOMORPHIC INFORMATION SYSTEM USING A TIN-DEM
   DATA STRUCTURE 1.
@@ -225,7 +231,7 @@
   Association}
 \newblock 30 (1994), Nr. 1, p. 9--17
 
-\bibitem[33]{zhang2002comparison}
+\bibitem[34]{zhang2002comparison}
 \textsc{Zhang}, Jian:
 \newblock \emph{A comparison of digital photogrammetric and LIDAR high
   resolution digital elevation models}.
