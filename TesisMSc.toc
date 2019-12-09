@@ -2,8 +2,9 @@
 \contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{\es@scroman {vii}}%
 \babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducci\'{o}n}{2}%
-\contentsline {chapter}{\numberline {2}Metodologia.}{5}%
+\contentsline {chapter}{\numberline {2}Metodolog\'ia.}{5}%
 \contentsline {chapter}{\numberline {3}Fundamentos de los m\'etodos de dobelas.}{7}%
+\contentsline {section}{\numberline {3.1}Factor de seguridad (\textit {F})}{9}%
 \contentsline {chapter}{\numberline {4}Scoops3D.}{10}%
 \contentsline {section}{\numberline {4.1}Funcionamiento de los m\'etodos de estabilidad de laderas en Scoops3D}{12}%
 \contentsline {subsection}{\numberline {4.1.1}Inclinaci\'on del plano basal}{12}%
