@@ -32,9 +32,10 @@
 \contentsline {subsection}{\numberline {6.1.5}Interpretacion}{48}%
 \contentsline {chapter}{\numberline {7}Informaci\'on de campo.}{49}%
 \contentsline {section}{\numberline {7.1}Recorrido de campo}{49}%
-\contentsline {section}{\numberline {7.2}Ensayos de laboratorio.}{52}%
-\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{55}%
-\contentsline {paragraph}{\nonumberline Scoops3D.}{56}%
+\contentsline {section}{\numberline {7.2}Calsificaci\'ion del suelo.}{52}%
+\contentsline {section}{\numberline {7.3}Ensayos de laboratorio.}{53}%
+\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{56}%
+\contentsline {paragraph}{\nonumberline Scoops3D.}{57}%
 \contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{60}%
 \contentsline {section}{\numberline {8.1}Conclusiones}{60}%
 \contentsline {section}{\numberline {8.2}Recomendaciones}{61}%
