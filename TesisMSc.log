@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.28)  4 FEB 2020 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.28)  6 FEB 2020 09:16
 entering extended mode
 **./TesisMSc.tex
 (TesisMSc.tex
@@ -935,7 +935,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 17.
 Package tocbasic Info: Using my definition of `\numberline' on input line 18.
 Package tocbasic Info: Using my definition of `\numberline' on input line 19.
 Package tocbasic Info: Using my definition of `\numberline' on input line 20.
-Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 21.
 [8
 
 
@@ -946,15 +946,16 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 25.
 Package tocbasic Info: Using my definition of `\numberline' on input line 26.
 Package tocbasic Info: Using my definition of `\numberline' on input line 27.
 Package tocbasic Info: Using my definition of `\numberline' on input line 28.
-Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
 Package tocbasic Info: Using my definition of `\numberline' on input line 33.
 Package tocbasic Info: Using my definition of `\numberline' on input line 34.
 Package tocbasic Info: Using my definition of `\numberline' on input line 35.
 Package tocbasic Info: Using my definition of `\numberline' on input line 36.
-Package tocbasic Info: Using my definition of `\numberline' on input line 39.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
 Package tocbasic Info: Using my definition of `\numberline' on input line 40.
 Package tocbasic Info: Using my definition of `\numberline' on input line 41.
 Package tocbasic Info: Using my definition of `\numberline' on input line 42.
+Package tocbasic Info: Using my definition of `\numberline' on input line 43.
 )
 \tf@toc=\write3
 \openout3 = `TesisMSc.toc'.
@@ -1073,85 +1074,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-[12
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 <img/complete_column.JPG, id=91, 447.92343pt x 404.26031pt>
 File: img/complete_column.JPG Graphic file (type jpg)
 <use img/complete_column.JPG>
-Package pdftex.def Info: img/complete_column.JPG  used on input line 39.
+Package pdftex.def Info: img/complete_column.JPG  used on input line 43.
 (pdftex.def)             Requested size: 234.73523pt x 211.85123pt.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-[13 <./img/complete_column.JPG>]
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [14]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+[13]
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [14 <./img/complete_column.JPG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
  [15]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 ) (cap3/dem.tex
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
- [16]
 Underfull \hbox (badness 10000) in paragraph at lines 7--17
 
  []
 
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+[17]
 LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 2
 6.
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
- [17]) (cap3/interfaz.tex
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
-[18]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [18])
+(cap3/interfaz.tex
 <img/main_window.PNG, id=117, 548.0475pt x 548.0475pt>
 File: img/main_window.PNG Graphic file (type png)
 <use img/main_window.PNG>
 Package pdftex.def Info: img/main_window.PNG  used on input line 10.
 (pdftex.def)             Requested size: 234.73523pt x 234.73595pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-<img/units_winow.PNG, id=119, 281.55188pt x 201.75375pt>
-File: img/units_winow.PNG Graphic file (type png)
-<use img/units_winow.PNG>
-Package pdftex.def Info: img/units_winow.PNG  used on input line 19.
-(pdftex.def)             Requested size: 234.73523pt x 168.20671pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
- [19 <./img/main_window.PNG>]
-<img/model.JPG, id=124, 627.09282pt x 367.3725pt>
-File: img/model.JPG Graphic file (type jpg)
-<use img/model.JPG>
-Package pdftex.def Info: img/model.JPG  used on input line 34.
-(pdftex.def)             Requested size: 422.52054pt x 247.53409pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+[19]
+<img/units_winow.PNG, id=122, 281.55188pt x 201.75375pt>
+File: img/units_winow.PNG Graphic file (type png)
+<use img/units_winow.PNG>
+Package pdftex.def Info: img/units_winow.PNG  used on input line 19.
+(pdftex.def)             Requested size: 234.73523pt x 168.20671pt.
+<img/model.JPG, id=123, 627.09282pt x 367.3725pt>
+File: img/model.JPG Graphic file (type jpg)
+<use img/model.JPG>
+Package pdftex.def Info: img/model.JPG  used on input line 34.
+(pdftex.def)             Requested size: 422.52054pt x 247.53409pt.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [20 <./img/main_window.PNG> <./img/units_winow.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 40--47
 
  []
@@ -1161,41 +1171,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
-<img/material_properties_window.PNG, id=125, 319.1925pt x 131.74219pt>
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+[21 <./img/model.JPG>]
+<img/material_properties_window.PNG, id=132, 319.1925pt x 131.74219pt>
 File: img/material_properties_window.PNG Graphic file (type png)
 <use img/material_properties_window.PNG>
 Package pdftex.def Info: img/material_properties_window.PNG  used on input line
  54.
 (pdftex.def)             Requested size: 375.57779pt x 155.01619pt.
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
-[20 <./img/units_winow.PNG>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
-<img/piezo.JPG, id=130, 649.67719pt x 389.95688pt>
+<img/piezo.JPG, id=133, 649.67719pt x 389.95688pt>
 File: img/piezo.JPG Graphic file (type jpg)
 <use img/piezo.JPG>
 Package pdftex.def Info: img/piezo.JPG  used on input line 67.
 (pdftex.def)             Requested size: 375.57779pt x 225.4373pt.
-
-Underfull \vbox (badness 2744) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [21 <./img/model.JPG> <./img/material_properties_window.PNG>]
-<img/search_config_window.PNG, id=135, 234.8775pt x 519.44063pt>
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+[22 <./img/material_properties_window.PNG> <./img/piezo.JPG>]
+<img/search_config_window.PNG, id=138, 234.8775pt x 519.44063pt>
 File: img/search_config_window.PNG Graphic file (type png)
 <use img/search_config_window.PNG>
 Package pdftex.def Info: img/search_config_window.PNG  used on input line 91.
 (pdftex.def)             Requested size: 117.43846pt x 259.71968pt.
 
-Underfull \vbox (badness 1325) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
- [22 <./img/piezo.JPG>]) (cap3/output.tex
+ [23])
+(cap3/output.tex
 Overfull \hbox (46.50569pt too wide) in paragraph at lines 17--29
  [][] 
  []
@@ -1205,12 +1214,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
- [23 <./img/search_config_window.PNG>]
+ [24 <./img/search_config_window.PNG>]
 Underfull \vbox (badness 3942) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
- [24]
+ [25]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 40.
@@ -1218,12 +1227,12 @@ LaTeX Warning: No positions in optional float specifier.
 )
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
- [25]
+ [26]
 \openout2 = `Kap4/Kap4.aux'.
 
  (Kap4/Kap4.tex
 chapter 5.
-<img/zona_estudio.jpg, id=150, 830.10126pt x 867.24pt>
+<img/zona_estudio.jpg, id=153, 830.10126pt x 867.24pt>
 File: img/zona_estudio.jpg Graphic file (type jpg)
 <use img/zona_estudio.jpg>
 Package pdftex.def Info: img/zona_estudio.jpg  used on input line 6.
@@ -1236,23 +1245,23 @@ Overfull \hbox (28.59415pt too wide) in paragraph at lines 6--7
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26
+ [27
 
 
 ]
-[27 <./img/zona_estudio.jpg>]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+
+[28 <./img/zona_estudio.jpg>]
 
 pdfTeX warning: pdflatex (file ./img/pendientes.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/pendientes.pdf, id=157, 284.55602pt x 270.27274pt>
+<img/pendientes.pdf, id=160, 284.55602pt x 270.27274pt>
 File: img/pendientes.pdf Graphic file (type pdf)
 <use img/pendientes.pdf>
 Package pdftex.def Info: img/pendientes.pdf  used on input line 19.
 (pdftex.def)             Requested size: 284.55531pt x 270.27206pt.
-)
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
- [28 <./img/pendientes.pdf>] (Kap4/atmos.tex) (Kap4/geo.tex
+) [29 <./img/pendientes.pdf>] (Kap4/atmos.tex) (Kap4/geo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1262,10 +1271,10 @@ Underfull \vbox (badness 1521) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [29
+ [30
 
 ]
-<img/geologia.pdf, id=198, 830.10126pt x 867.24pt>
+<img/geologia.pdf, id=201, 830.10126pt x 867.24pt>
 File: img/geologia.pdf Graphic file (type pdf)
 <use img/geologia.pdf>
 Package pdftex.def Info: img/geologia.pdf  used on input line 32.
@@ -1275,7 +1284,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
- [30])
+ [31])
 (Kap4/geoEstructural.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
@@ -1286,14 +1295,14 @@ Underfull \vbox (badness 1320) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [31 <./img/geologia.pdf>]) (Kap4/geomorfo.tex
+ [32 <./img/geologia.pdf>]) (Kap4/geomorfo.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [32]
+ [33]
 
 pdfTeX warning: pdflatex (file ./img/geomorfo.pdf): PDF inclusion: found PDF ve
 rsion <1.6>, but at most version <1.5> allowed
-<img/geomorfo.pdf, id=237, 142.29224pt x 142.29224pt>
+<img/geomorfo.pdf, id=240, 142.29224pt x 142.29224pt>
 File: img/geomorfo.pdf Graphic file (type pdf)
 <use img/geomorfo.pdf>
 Package pdftex.def Info: img/geomorfo.pdf  used on input line 11.
@@ -1301,29 +1310,29 @@ Package pdftex.def Info: img/geomorfo.pdf  used on input line 11.
 )
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [33 <./img/geomorfo.pdf>]
+ [34 <./img/geomorfo.pdf>]
 \openout2 = `Kap5/Kap5.aux'.
 
  (Kap5/Kap5.tex
 chapter 6.
-[34
+[35
 
 
 ])
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [35] (Kap5/PremtestDEM.tex
+ [36] (Kap5/PremtestDEM.tex
 
 pdfTeX warning: pdflatex (file ./img/dem.pdf): PDF inclusion: found PDF version
  <1.6>, but at most version <1.5> allowed
-<img/dem.pdf, id=282, 142.29224pt x 142.29224pt>
+<img/dem.pdf, id=285, 142.29224pt x 142.29224pt>
 File: img/dem.pdf Graphic file (type pdf)
 <use img/dem.pdf>
 Package pdftex.def Info: img/dem.pdf  used on input line 7.
 (pdftex.def)             Requested size: 426.87566pt x 426.87566pt.
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
-[36
+[37
 
  <./img/dem.pdf>]
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
@@ -1334,12 +1343,12 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
 
-[37]) (Kap5/premtestsearchBox.tex
+[38]) (Kap5/premtestsearchBox.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<img/search_setup.PNG, id=308, 431.36156pt x 557.83406pt>
+<img/search_setup.PNG, id=311, 431.36156pt x 557.83406pt>
 File: img/search_setup.PNG Graphic file (type png)
 <use img/search_setup.PNG>
 Package pdftex.def Info: img/search_setup.PNG  used on input line 7.
@@ -1349,11 +1358,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [38]
+ [39]
 
 pdfTeX warning: pdflatex (file ./img/boundcheck.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/boundcheck.pdf, id=312, 284.55602pt x 270.27274pt>
+<img/boundcheck.pdf, id=315, 284.55602pt x 270.27274pt>
 File: img/boundcheck.pdf Graphic file (type pdf)
 <use img/boundcheck.pdf>
 Package pdftex.def Info: img/boundcheck.pdf  used on input line 24.
@@ -1363,8 +1372,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [39 <./img/search_setup.PNG>]
-<img/symbology.PNG, id=317, 54.9553pt x 131.74219pt>
+ [40 <./img/search_setup.PNG>]
+<img/symbology.PNG, id=320, 54.9553pt x 131.74219pt>
 File: img/symbology.PNG Graphic file (type png)
 <use img/symbology.PNG>
 Package pdftex.def Info: img/symbology.PNG  used on input line 35.
@@ -1399,7 +1408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-[40 <./img/boundcheck.pdf> <./img/symbology.PNG>]
+[41 <./img/boundcheck.pdf> <./img/symbology.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 7--10
 \OT1/lmr/m/n/12 ti-va de 84$ $% y tem-pe-ra-tu-ra pro-me-dio de 26 gra-dos cen-
 ti-gra-dos.
@@ -1410,7 +1419,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
- [41])
+ [42])
 (Kap5/premtest.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 \OT1/lmr/m/n/12 ob-ser-var
@@ -1423,12 +1432,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
-[42]
+[43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [43]
+ [44]
 Overfull \hbox (12.17978pt too wide) in paragraph at lines 19--19
 []\OT1/lmtt/m/n/12 Bishop's 3D factor of safety:                               
            15.1517[] 
@@ -1504,7 +1513,7 @@ Overfull \hbox (12.16577pt too wide) in paragraph at lines 38--38
 
 pdfTeX warning: pdflatex (file ./img/AreniscaPottsville.pdf): PDF inclusion: fo
 und PDF version <1.6>, but at most version <1.5> allowed
-<img/AreniscaPottsville.pdf, id=359, 284.55602pt x 270.27274pt>
+<img/AreniscaPottsville.pdf, id=362, 284.55602pt x 270.27274pt>
 File: img/AreniscaPottsville.pdf Graphic file (type pdf)
 <use img/AreniscaPottsville.pdf>
 Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 48.
@@ -1513,7 +1522,7 @@ Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 48.
 
 pdfTeX warning: pdflatex (file ./img/LimolitaRepetto34_32_232.pdf): PDF inclusi
 on: found PDF version <1.6>, but at most version <1.5> allowed
-<img/LimolitaRepetto34_32_232.pdf, id=360, 284.55602pt x 270.27274pt>
+<img/LimolitaRepetto34_32_232.pdf, id=363, 284.55602pt x 270.27274pt>
 File: img/LimolitaRepetto34_32_232.pdf Graphic file (type pdf)
 <use img/LimolitaRepetto34_32_232.pdf>
 Package pdftex.def Info: img/LimolitaRepetto34_32_232.pdf  used on input line 5
@@ -1524,11 +1533,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
- [44]
+ [45]
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf): PD
 F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=364, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=367, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_VI_sandySilt_26_27_25.pdf>
 Package pdftex.def Info: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf  used on inp
@@ -1538,7 +1547,7 @@ ut line 69.
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_V_siltySand_12_38_27.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=365, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=368, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_V_siltySand_12_38_27.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_V_siltySand_12_38_27.pdf>
 Package pdftex.def Info: img/Bukit_Timah_V_siltySand_12_38_27.pdf  used on inpu
@@ -1548,7 +1557,7 @@ t line 75.
 
 pdfTeX warning: pdflatex (file ./img/BukitTimahV_siltySand13_35_26.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/BukitTimahV_siltySand13_35_26.pdf, id=366, 284.55602pt x 270.27274pt>
+<img/BukitTimahV_siltySand13_35_26.pdf, id=369, 284.55602pt x 270.27274pt>
 File: img/BukitTimahV_siltySand13_35_26.pdf Graphic file (type pdf)
 <use img/BukitTimahV_siltySand13_35_26.pdf>
 Package pdftex.def Info: img/BukitTimahV_siltySand13_35_26.pdf  used on input l
@@ -1559,11 +1568,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
- [45 <./img/AreniscaPottsville.pdf> <./img/LimolitaRepetto34_32_232.pdf>]
+ [46 <./img/AreniscaPottsville.pdf> <./img/LimolitaRepetto34_32_232.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIII_siltySand225_50_28.pdf): PDF 
 inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIII_siltySand225_50_28.pdf, id=422, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIII_siltySand225_50_28.pdf, id=425, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIII_siltySand225_50_28.pdf Graphic file (type pdf)
 <use img/Fm_JurongIII_siltySand225_50_28.pdf>
 Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
@@ -1573,7 +1582,7 @@ Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand35_45_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand35_45_27.pdf, id=423, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand35_45_27.pdf, id=426, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand35_45_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand35_45_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand35_45_27.pdf  used on input l
@@ -1583,7 +1592,7 @@ ine 101.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand55_51_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand55_51_27.pdf, id=424, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand55_51_27.pdf, id=427, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand55_51_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand55_51_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand55_51_27.pdf  used on input l
@@ -1593,7 +1602,7 @@ ine 106.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand125_42_26.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand125_42_26.pdf, id=425, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand125_42_26.pdf, id=428, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand125_42_26.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand125_42_26.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand125_42_26.pdf  used on input 
@@ -1604,20 +1613,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [46 <./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf> <./img/Bukit_Timah_V_siltySa
+ [47 <./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf> <./img/Bukit_Timah_V_siltySa
 nd_12_38_27.pdf> <./img/BukitTimahV_siltySand13_35_26.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 123.
 LaTeX Info: Redefining \% on input line 123.
- [47 <./img/Fm_JurongIII_siltySand225_50_28.pdf> <./img/Fm_JurongIV_siltySand35
+ [48 <./img/Fm_JurongIII_siltySand225_50_28.pdf> <./img/Fm_JurongIV_siltySand35
 _45_27.pdf> <./img/Fm_JurongIV_siltySand55_51_27.pdf> <./img/Fm_JurongIV_siltyS
 and125_42_26.pdf>]) (kap6/Kap6.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [48]
+ [49]
 chapter 7.
-<img/estacion10.jpg, id=618, 695.59875pt x 378.66469pt>
+<img/estacion10.jpg, id=621, 695.59875pt x 378.66469pt>
 File: img/estacion10.jpg Graphic file (type jpg)
 <use img/estacion10.jpg>
 Package pdftex.def Info: img/estacion10.jpg  used on input line 14.
@@ -1630,15 +1639,15 @@ Overfull \hbox (52.22733pt too wide) in paragraph at lines 14--15
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49
+ [50
 
 ]
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
- [50 <./img/estacion10.jpg>]
-<img/estacion11.jpg, id=627, 1606.0pt x 1206.5075pt>
+ [51 <./img/estacion10.jpg>]
+<img/estacion11.jpg, id=630, 1606.0pt x 1206.5075pt>
 File: img/estacion11.jpg Graphic file (type jpg)
 <use img/estacion11.jpg>
 Package pdftex.def Info: img/estacion11.jpg  used on input line 41.
@@ -1648,13 +1657,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
- [51]
+ [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
- [52 <./img/estacion11.jpg>]
-<img/fallada.jpg, id=634, 428.802pt x 287.8755pt>
+ [53 <./img/estacion11.jpg>]
+<img/fallada.jpg, id=638, 428.802pt x 287.8755pt>
 File: img/fallada.jpg Graphic file (type jpg)
 <use img/fallada.jpg>
 Package pdftex.def Info: img/fallada.jpg  used on input line 60.
@@ -1669,11 +1678,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
- [53 <./img/fallada.jpg>]
+ [54 <./img/fallada.jpg>]
 
 pdfTeX warning: pdflatex (file ./img/line.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<img/line.pdf, id=639, 597.55246pt x 421.09319pt>
+<img/line.pdf, id=642, 597.55246pt x 421.09319pt>
 File: img/line.pdf Graphic file (type pdf)
 <use img/line.pdf>
 Package pdftex.def Info: img/line.pdf  used on input line 87.
@@ -1688,8 +1697,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
- [54 <./img/line.pdf>]
-<img/diagramatd.JPG, id=654, 478.1865pt x 328.22626pt>
+ [55 <./img/line.pdf>]
+<img/diagramatd.JPG, id=657, 478.1865pt x 328.22626pt>
 File: img/diagramatd.JPG Graphic file (type jpg)
 <use img/diagramatd.JPG>
 Package pdftex.def Info: img/diagramatd.JPG  used on input line 108.
@@ -1706,8 +1715,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [55 <./img/diagramatd.JPG>]
-<img/est2.jpg, id=658, 385.44pt x 302.3295pt>
+ [56 <./img/diagramatd.JPG>]
+<img/est2.jpg, id=661, 385.44pt x 302.3295pt>
 File: img/est2.jpg Graphic file (type jpg)
 <use img/est2.jpg>
 Package pdftex.def Info: img/est2.jpg  used on input line 119.
@@ -1717,70 +1726,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 127.
 LaTeX Info: Redefining \% on input line 127.
- [56 <./img/est2.jpg>]
+ [57 <./img/est2.jpg>]
 
 pdfTeX warning: pdflatex (file ./img/boundcheckCampo.pdf): PDF inclusion: found
  PDF version <1.6>, but at most version <1.5> allowed
-<img/boundcheckCampo.pdf, id=662, 1228.59pt x 794.97pt>
+<img/boundcheckCampo.pdf, id=665, 1228.59pt x 794.97pt>
 File: img/boundcheckCampo.pdf Graphic file (type pdf)
 <use img/boundcheckCampo.pdf>
 Package pdftex.def Info: img/boundcheckCampo.pdf  used on input line 130.
 (pdftex.def)             Requested size: 368.57985pt x 238.49284pt.
 LaTeX Info: Redefining \. on input line 141.
 LaTeX Info: Redefining \% on input line 141.
-[57 <./img/boundcheckCampo.pdf>]
+[58 <./img/boundcheckCampo.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/fos3DCampo_coarse.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<img/fos3DCampo_coarse.pdf, id=727, 1228.59pt x 794.97pt>
+<img/fos3DCampo_coarse.pdf, id=730, 1228.59pt x 794.97pt>
 File: img/fos3DCampo_coarse.pdf Graphic file (type pdf)
 <use img/fos3DCampo_coarse.pdf>
 Package pdftex.def Info: img/fos3DCampo_coarse.pdf  used on input line 145.
 (pdftex.def)             Requested size: 368.57985pt x 238.49284pt.
 LaTeX Info: Redefining \. on input line 157.
 LaTeX Info: Redefining \% on input line 157.
-[58 <./img/fos3DCampo_coarse.pdf>]) (kap7/kap7.tex
+[59 <./img/fos3DCampo_coarse.pdf>]) (kap7/kap7.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [59]
+ [60]
 chapter 8.
 
-Underfull \vbox (badness 2173) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60
+ [61
 
 ]
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[61]) (TesisMSc.bbl
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
  [62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [63])
+(TesisMSc.bbl
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 117.
 LaTeX Info: Redefining \% on input line 117.
- [64]
+ [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 184.
 LaTeX Info: Redefining \% on input line 184.
- [65]
+ [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 248.
 LaTeX Info: Redefining \% on input line 248.
- [66])
+ [68])
 LaTeX Info: Redefining \. on input line 75.
 LaTeX Info: Redefining \% on input line 75.
 
-[67] (TesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
+[69] (TesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  (Kap1/Kap1.aux)
@@ -1800,7 +1816,7 @@ Here is how much of TeX's memory you used:
  16650 multiletter control sequences out of 15000+200000
  85066 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,16n,74p,10096b,1812s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,16n,74p,10096b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-rmtt.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc
 /dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-math
@@ -1823,9 +1839,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 symbols/msam10.pfb>
-Output written on TesisMSc.pdf (75 pages, 7284390 bytes).
+Output written on TesisMSc.pdf (77 pages, 7285964 bytes).
 PDF statistics:
- 899 PDF objects out of 1000 (max. 8388607)
+ 905 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

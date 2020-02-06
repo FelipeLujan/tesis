@@ -7,36 +7,37 @@
 \contentsline {section}{\numberline {3.1}Factor de seguridad (\textit {F})}{9}%
 \contentsline {chapter}{\numberline {4}Scoops3D.}{10}%
 \contentsline {section}{\numberline {4.1}Funcionamiento de los m\'etodos de estabilidad de laderas en Scoops3D}{12}%
-\contentsline {subsection}{\numberline {4.1.1}Inclinaci\'on del plano basal}{12}%
-\contentsline {subsection}{\numberline {4.1.2}Vol\'umen de la columna}{13}%
+\contentsline {subsection}{\numberline {4.1.1}Limitaciones}{12}%
+\contentsline {subsection}{\numberline {4.1.2}Inclinaci\'on del plano basal}{13}%
+\contentsline {subsection}{\numberline {4.1.3}Vol\'umen de la columna}{13}%
 \contentsline {section}{\numberline {4.2}Modelo de elevaci\'{o}n digital.}{17}%
-\contentsline {subsection}{\numberline {4.2.1}ESRI ASCII}{17}%
+\contentsline {subsection}{\numberline {4.2.1}ESRI ASCII}{18}%
 \contentsline {section}{\numberline {4.3}Interfaz de usuario.}{19}%
-\contentsline {section}{\numberline {4.4}Archivos de salida.}{23}%
-\contentsline {chapter}{\numberline {5}Zona de estudio.}{26}%
-\contentsline {section}{\numberline {5.1}Condiciones atmosf\'{e}ricas.}{29}%
-\contentsline {section}{\numberline {5.2}Geolog\'ia}{29}%
-\contentsline {section}{\numberline {5.3}Geolog\'ia Estructural}{31}%
-\contentsline {subsection}{\numberline {5.3.1}Fallamiento}{32}%
-\contentsline {subsubsection}{\nonumberline Falla La Mansa}{32}%
-\contentsline {section}{\numberline {5.4}Geomorfolog\'{i}a.}{32}%
-\contentsline {chapter}{\numberline {6}An\'alisis tridimensinal en Scoops3D.}{34}%
-\contentsline {section}{\numberline {6.1}Prueba piloto}{34}%
-\contentsline {subsection}{\numberline {6.1.1}DEM usado en pruebas preliminares}{36}%
-\contentsline {subsection}{\numberline {6.1.2}Pruebas Ejecutadas.}{38}%
-\contentsline {subsection}{\numberline {6.1.3}Par\'ametros de resistencia.}{40}%
-\contentsline {subsection}{\numberline {6.1.4}Pruebas Preliminares.}{42}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de control.}{42}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{45}%
-\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{46}%
-\contentsline {subsection}{\numberline {6.1.5}Interpretacion}{48}%
-\contentsline {chapter}{\numberline {7}Informaci\'on de campo.}{49}%
-\contentsline {section}{\numberline {7.1}Recorrido de campo}{49}%
-\contentsline {section}{\numberline {7.2}Calsificaci\'ion del suelo.}{52}%
-\contentsline {section}{\numberline {7.3}Ensayos de laboratorio.}{53}%
-\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{56}%
-\contentsline {paragraph}{\nonumberline Scoops3D.}{57}%
-\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{60}%
-\contentsline {section}{\numberline {8.1}Conclusiones}{60}%
-\contentsline {section}{\numberline {8.2}Recomendaciones}{61}%
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{62}%
+\contentsline {section}{\numberline {4.4}Archivos de salida.}{24}%
+\contentsline {chapter}{\numberline {5}Zona de estudio.}{27}%
+\contentsline {section}{\numberline {5.1}Condiciones atmosf\'{e}ricas.}{30}%
+\contentsline {section}{\numberline {5.2}Geolog\'ia}{30}%
+\contentsline {section}{\numberline {5.3}Geolog\'ia Estructural}{32}%
+\contentsline {subsection}{\numberline {5.3.1}Fallamiento}{33}%
+\contentsline {subsubsection}{\nonumberline Falla La Mansa}{33}%
+\contentsline {section}{\numberline {5.4}Geomorfolog\'{i}a.}{33}%
+\contentsline {chapter}{\numberline {6}An\'alisis tridimensinal en Scoops3D.}{35}%
+\contentsline {section}{\numberline {6.1}Prueba piloto}{35}%
+\contentsline {subsection}{\numberline {6.1.1}DEM usado en pruebas preliminares}{37}%
+\contentsline {subsection}{\numberline {6.1.2}Pruebas Ejecutadas.}{39}%
+\contentsline {subsection}{\numberline {6.1.3}Par\'ametros de resistencia.}{41}%
+\contentsline {subsection}{\numberline {6.1.4}Pruebas Preliminares.}{43}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de control.}{43}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{46}%
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{47}%
+\contentsline {subsection}{\numberline {6.1.5}Interpretacion}{49}%
+\contentsline {chapter}{\numberline {7}Informaci\'on de campo.}{50}%
+\contentsline {section}{\numberline {7.1}Recorrido de campo}{50}%
+\contentsline {section}{\numberline {7.2}Calsificaci\'ion del suelo.}{53}%
+\contentsline {section}{\numberline {7.3}Ensayos de laboratorio.}{54}%
+\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{57}%
+\contentsline {paragraph}{\nonumberline Scoops3D.}{58}%
+\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{61}%
+\contentsline {section}{\numberline {8.1}Conclusiones}{61}%
+\contentsline {section}{\numberline {8.2}Recomendaciones}{63}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{64}%
