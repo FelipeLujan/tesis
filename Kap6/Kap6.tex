@@ -55,9 +55,87 @@ Como resultado de los ensayos se pudo determinar una humedad natural del \(21\,\
 La gravedad espec\'ifica de los s\'olidos, seg\'un el procedimiento descrito en la norma ASTM C-127 fue de \(2.53\).
 Con estos valores se procedi\'o a realizar los ensayos de corte directo seg\'un la norma ASTM D-380. Se decidi\'o realizar los ensayos bajo condiciones de suelo saturado, es decir, habiendo sumergido totalmente la muestra de suelo durante un periodo de 24 horas, lo anterior con el prop\'osito de obtener par\'ametros correspondientes a eventos de alta precipitaci\'on que puedan presentarse en la zona de trabajo.
 
+\subsection{Ensayo de gravedad espec\'ifica. Norma ASTM C-127}
+La gravedad espec\'ifica es la relaci\'on entre la masa de una muestra de suelo y la masa del mismo vol\'umen de agua a la misma temperatura.
+Inicialmente se toma un picn\'ometro y se llena con una cantidad conocida de agua deslitala. Acto seguido se extrae el aire disuelto en el agua por medio de una bomba de vac\'io.
+El nivel del agua no debe sobrepasar la marca indicada en la boca del picn\'ometro, de esta manera se garantiza un vol\'umen conocido de agua. Acto seguido se toman 4 mediciones del la masa y temperatura del picn\'ometro. En la figura \ref{fig:picnometro} se muestra el picn\'ometro con agua durante el proceso de extracci\'on de aire.
+Una vez se tiene dicha informaci\'on se repite el mismo procedimiento, esta vez incluyendo 50Gr de muestra tamizada, espec\'ificamente el pasante de la malla 200. Poniendo atenci\'on de no sobrepasar la marca en la boca del picn\'ometro.
+Se toman nuevamente 4 mediciones de peso y temperatura. En la figura \ref{fig:picnometroSuelo} se muestra el picn\'ometro con la muestra de suelo de la estaci\'on JFLR 1, durante el proceso de extracci\'on de aire.
+
+\begin{figure}[]
+\centering
+\begin{minipage}{.45\linewidth}
+  \includegraphics[width=\linewidth]{picnometro.jpg}
+  \captionof{figure}{}
+  \label{fig:picnometro}
+\end{minipage}
+\hspace{.05\linewidth}
+\begin{minipage}{.45\linewidth}
+  \includegraphics[width=\linewidth]{picnometroSuelo.jpg}
+  \captionof{figure}{}
+  \label{fig:picnometroSuelo}
+\end{minipage}
+
+
+\end{figure}
+
+
+La gravedad espec\'ifica est\'a dada por la formula
+
+$$Gs =\frac{\textit{Ws}  \times \textit{Ws} }{\textit{Wpw}   + \textit{Ws}- \textit{Wps}}    $$
+
+El ensayo se repiti\'o 2 veces, usando los picn\'ometros 2 y 4 del lavoratorio de suelos de la Universidad Nacional de Medell\'in. Reemplazando los valores obtenidos se obtiene.
+
+Picn\'ometro 2.
+$$Gs =\frac{\textit{53.1}  \times \textit{1} }{\textit{661.94}   + \textit{56.33}- \textit{696.33}}    $$
+$$Gs =2.56   $$
+
+Picn\'ometro 4.
+$$Gs =\frac{\textit{57.76}  \times \textit{1} }{\textit{667.97}   + \textit{57.76}- \textit{702.68}}    $$
+$$Gs =2.501   $$
+
+Por lo que promediando se obtiene un valor de 2.53
+
+
+
+
+\subsection{Ensayo de corte directo. Norma ASTM D-380}
+En el ensayo de corte directo se inserta una muestra de suelo inalterado (no desagregado) en la caja de corte y se sumerge durante 6 horas en agua destilada. Pasado ese tiempo se asume que la muestra ha adquirido su m\'aximo estado de saturaci\'on.  Esto se hace con el prop\'osito de que simular el estado de mayor debilidad estructural. figura \ref{fig:muestraCaja}
+Simultaneamente se realiza se realiza el proceso de carga de esfuerzos normales (consolidaci\'on). Sobre la esfera plateada que se muestra en la figura \ref{fig:muestraCajaSumergida} se imprime un esfuerzo normal al esfuerzo de cizalla. Esto con el prop\'osito de simular el esfuerzo de carga normal que un cuerpo de suelo ejerce sobre s\'i mismo. El montaje completo se ilustra en la figura \ref{fig:muestraCajaConsolidando}
+
+
+
+
+
+\begin{figure}[]
+\centering
+\begin{minipage}{.45\linewidth}
+  \includegraphics[width=\linewidth]{muestraCaja.jpg}
+  \captionof{figure}{}
+  \label{fig:muestraCaja}
+\end{minipage}
+\hspace{.05\linewidth}
+\begin{minipage}{.45\linewidth}
+  \includegraphics[width=\linewidth]{muestraCajaSumergida.jpg}
+  \captionof{figure}{}
+  \label{fig:muestraCajaSumergida}
+\end{minipage}
+\hspace{.05\linewidth}
+\begin{minipage}{.45\linewidth}
+  \includegraphics[width=\linewidth]{muestraCajaConsolidando.jpg}
+  \captionof{figure}{}
+  \label{fig:muestraCajaConsolidando}
+\end{minipage}
+
+\end{figure}
+
+
+Posteriormente inicia el proceso de aplicaci\'on de esfuerzos de cizalla, la velocidad de movimiento de las partes de la caja de cizalla fue de 0.06 mm por minuto. Hasta obtener un desplazamiento de entre 12\% y 15\% del di\'ametro de la caja de cizalla.
+El equipo usado fue Humboldt HM-5760.3F, que registra los esfuerzos autom\'aticamente en una hoja de c\'alculo. El resultado final se muestra a continuaci\'on.
+
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{img/fallada.jpg}
+\includegraphics[scale=0.8]{img/fallada.jpg}
 \caption{Muestra de la estaci\'on JFLR1 en su estado posterior al ensayo de corte directo.  Desplazamiento total 6.6 mm}
 \label{fig:toma-bloque}
 \end{figure}

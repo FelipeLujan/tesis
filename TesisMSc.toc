@@ -35,9 +35,11 @@
 \contentsline {section}{\numberline {7.1}Recorrido de campo}{50}%
 \contentsline {section}{\numberline {7.2}Calsificaci\'ion del suelo.}{53}%
 \contentsline {section}{\numberline {7.3}Ensayos de laboratorio.}{54}%
-\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{57}%
-\contentsline {paragraph}{\nonumberline Scoops3D.}{58}%
-\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{61}%
-\contentsline {section}{\numberline {8.1}Conclusiones}{61}%
-\contentsline {section}{\numberline {8.2}Recomendaciones}{63}%
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{64}%
+\contentsline {subsection}{\numberline {7.3.1}Ensayo de gravedad espec\'ifica. Norma ASTM C-127}{54}%
+\contentsline {subsection}{\numberline {7.3.2}Ensayo de corte directo. Norma ASTM D-380}{56}%
+\contentsline {paragraph}{\nonumberline Estaci\'on 2.}{60}%
+\contentsline {paragraph}{\nonumberline Scoops3D.}{61}%
+\contentsline {chapter}{\numberline {8}Conclusiones y Recomendaciones.}{64}%
+\contentsline {section}{\numberline {8.1}Conclusiones}{64}%
+\contentsline {section}{\numberline {8.2}Recomendaciones}{66}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{67}%
